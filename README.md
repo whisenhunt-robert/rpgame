@@ -1,7 +1,7 @@
 # Overview
 
 My goal for this project was to make an RPG Stimulator, which features the sprite you control, a village like background,
-and at least one None-Playable Character to interact with that says something when you walk-up to it.
+and at least one Non-Playable Character to interact with that says something when you walk-up to it.
 
 I've learned how to create the game screen and set the background color; but I know I can add more to it.
 However, due to unfortunately situations with life such as moving into a new apartment, I wasn't able to finish what I started.
